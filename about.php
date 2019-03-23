@@ -98,7 +98,9 @@ include( ABSPATH . 'wp-admin/admin-header.php' );
 				?>
 			</div>
 		</div>
-
+<div class="feature-section two-col">
+<div class="feature-section two-col">
+<div class="feature-section two-col">
 		<div class="feature-section two-col">
 			<div class="col">
 				<h3><?php _e( 'Edit Shortcuts' ); ?></h3>
